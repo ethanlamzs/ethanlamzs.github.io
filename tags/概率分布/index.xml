@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>概率分布 on Ethan Blog</title>
+    <link>https://ethanlamzs.github.io/tags/%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83/</link>
+    <description>Recent content in 概率分布 on Ethan Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you wish to quote or reproduce.</copyright>
+    <lastBuildDate>Sun, 08 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ethanlamzs.github.io/tags/%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>在Python中实现这五类强大的概率分布</title>
+      <link>https://ethanlamzs.github.io/post/%E7%BB%9F%E8%AE%A1%E5%88%86%E6%9E%90-%E6%A6%82%E7%8E%87%E6%A8%A1%E5%9E%8B-%E7%A0%94%E7%A9%B6/</link>
+      <pubDate>Sun, 08 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ethanlamzs.github.io/post/%E7%BB%9F%E8%AE%A1%E5%88%86%E6%9E%90-%E6%A6%82%E7%8E%87%E6%A8%A1%E5%9E%8B-%E7%A0%94%E7%A9%B6/</guid>
+      <description>&lt;p&gt;五类强大的概率分布介绍&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
